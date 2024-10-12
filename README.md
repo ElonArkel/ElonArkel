@@ -17,7 +17,7 @@
   ### Linguagens
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,java" />
   </a>
 </p>
 
