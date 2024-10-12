@@ -2,7 +2,7 @@
 
 ## Status Quo: 💭 
 - Exploring Git, GitHub, and GitHub Desktop.
-- Studying C, C++, Python and JavaScript.
+- Studying C, C++, Python, Java, JavaScript.
 - TI Student from UFRN (Universidade Federal do Rio Grande do Norte).
 
 ## GitHub Status: 📊
